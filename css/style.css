@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+    width: 100%;
+    height:100%;
+}
+
+header{
+	padding-left: 15%;
+	height: 100%;
+	width: 100%;
+	background-color: grey;
+
+}
+
+#menu{
+	text-align: center;
+	width: 15%;
+	height: 100%;
+	background-color: purple;
+	position: fixed;
+	z-index: 1;
+	}
+
+#section-1{
+	padding-left: 15%;
+	height: 50%;
+	width: 100%;
+	background-color: grey;
+}
+
+#row-1{
+	width: 50%;
+	height: 100%;
+	float: left;
+	background-color: green;
+}
+
+#row-2{
+	width: 50%;
+	height: 100%;
+	float: left;
+	background-color: yellow;
+}
+
+#row-3{
+	width: 50%;
+	height: 100%;
+	float: left;
+	background-color: yellow;
+}
+
+#row-4{
+	width: 50%;
+	height: 100%;
+	float: left;
+	background-color: green;
+}
+
+#section-lista{
+	margin: 0;
+	padding-left: 15%;
+	height: 100%;
+	width: 100%;
+}
+
+#caixa1{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#caixa2{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+#section-lista-2{
+	margin: 0;
+	padding-left: 15%;
+	height: 100%;
+	width: 100%;
+
+}
+
+#caixa3{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#caixa4{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#sobre-nos{
+	margin: 0;
+	padding-left: 15%;
+	height: 100%;
+	width: 100%;
+}
+
+#section-2{
+	padding-left: 15%;
+	height: 45%;
+	width: 100%;
+	background-color: blue;
+}
+
+
+
+
